@@ -15,6 +15,8 @@ Keep in mind that the same confidential.yaml file will need to be inside `root/p
 
 ## Scripts
 
+The use of [derry](https://pub.dev/packages/derry) package is recommended
+
 ### `derry run:dev`
 
 Runs the bot in development mode
